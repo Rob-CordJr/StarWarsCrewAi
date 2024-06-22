@@ -19,7 +19,7 @@ Para instalar as dependências necessárias, execute:
 
 ```bash
 pip install langchain_google_vertexai crewai crewai_tools langchain_community
-
+```
 
 ## Execução
 
